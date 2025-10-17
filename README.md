@@ -13,7 +13,7 @@ I'm a passionate AI Algorithm Engineer with deep interest in speech technologies
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,matlab,pytorch,sklearn,c++,vscode,git,github"/>
+    <img src="https://skillicons.dev/icons?i=py,matlab,pytorch,sklearn,cpp,vscode,git,github"/>
   </a>
 </p>
 
