@@ -1,11 +1,3 @@
-<p align="center">
-  <a href="https://github.com/LiuMingYy">
-    <img width="80%" alt="Hello, I'm LiuMingYy. AI Algorithm Engineer & Open Source Enthusiast!" src="https://via.placeholder.com/800x200/2D3748/FFFFFF?text=AI+Algorithm+Engineer+%7C+Open+Source+Enthusiast" />
-  </a>
-</p>
-
-<br />
-
 I'm a passionate AI Algorithm Engineer from China 🇨🇳
 
 **About me**
