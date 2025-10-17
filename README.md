@@ -21,6 +21,6 @@ I'm a passionate AI Algorithm Engineer with deep interest in speech technologies
 
 <p align="left">
   <a href="https://github.com/jwliao1209">
-    <img src="https://github-stats-alpha.vercel.app/api?username=jwliao1209&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
+    <img src="https://github-stats-alpha.vercel.app/api?username=LiuMingYy&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
   </a>
 </p>
