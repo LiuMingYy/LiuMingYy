@@ -43,24 +43,6 @@ I'm a passionate AI Algorithm Engineer from China 🇨🇳
 <br />
 <br />
 
-## Connect with me
-
-<a href="https://twitter.com/yourprofile">
-  <img align="right" alt="LiuMingY | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/yourprofile">
-  <img align="right" alt="LiuMingY | LinkedIn" width="20px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linkedin/linkedin.png" />
-</a>
-<a href="mailto:your-email@example.com">
-  <img align="right" alt="LiuMingY | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-
 ---
 
 ⭐️ From [LiuMingYy](https://github.com/LiuMingYy)
-
-**Note**: 
-- Replace placeholder image URL with your actual banner image
-- Update the featured project repositories with your actual project names
-- Fill in your actual social media links
-- You may want to customize the theme colors (currently using 'radical') to match your preference
